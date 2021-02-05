@@ -860,7 +860,7 @@ body {
 }
 
 .dentist-row .dentist-imgs .dentist-img {
-    width: 32%;
+    width: 31%;
     float: left;
     background: #f4f4f4;
     margin-right: 23px;
@@ -1272,7 +1272,7 @@ body {
 .footer-row .footer-top .footer-last form button {
     position: absolute;
     top: 0%;
-    right: 25%;
+    right: 20%;
     display: inline-block;
     padding: 16px 22px;
     border-radius: 0px 4px 4px 0px;
@@ -1390,7 +1390,7 @@ body {
     }
 
 
-
+    
 
 
 }
@@ -1415,11 +1415,6 @@ body {
 
     .banner-row .banner-btn a.b-btn1 {
         margin-left: -83px;
-    }
-
-    .dentist-row .dentist-imgs .dentist-img {
-        width: 31%;
-       
     }
 }
 
