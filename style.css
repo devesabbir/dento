@@ -1938,3 +1938,12 @@ body {
     }
 
 }
+
+
+
+@media only screen and (max-width:480px) {
+
+    .footer-row .footer-top .footer-last form button {
+        right: 28%;
+    }
+}
